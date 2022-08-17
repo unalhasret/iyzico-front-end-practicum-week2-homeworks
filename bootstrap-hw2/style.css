@@ -1,0 +1,6 @@
+.storyborder{
+    
+  border: 2px solid transparent;
+  background: linear-gradient(to right,rgb(250, 176, 39), rgb(250, 15, 15), rgb(241, 3, 241)) border-box;
+
+}
